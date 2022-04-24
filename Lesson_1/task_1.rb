@@ -10,4 +10,4 @@ if  weight > 0
   puts "#{name}, ваш идеальный вес #{weight} кг."
 elsif weight < 0
   puts "Ваш вес уже оптимальный."
-  end
+end
